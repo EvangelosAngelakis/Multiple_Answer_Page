@@ -1,9 +1,11 @@
 body {
     text-align: center;
     background-color: rgb(166, 233, 227);
+    border-style:groove;
 }
 .q0 {
     color: rgb(226, 15, 245);
+    border-style: dotted;
 }
 .q1 {
     color: rgb(3, 146, 15);
