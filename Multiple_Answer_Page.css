@@ -4,18 +4,18 @@ body {
     border-style:groove;
 }
 .q0 {
-    color: rgb(226, 15, 245);
+    color: cyan;
     border-style: dotted;
 }
 .q1 {
-    color: rgb(3, 146, 15);
+    color: greenyellow;
 }
 .q2 {
-    color: red;
+    color: greenyellow;
 }
 .q3 {
-    color: rgb(155, 153, 32);
+    color: greenyellow;
 }
 .q4 {
-    color: rgb(5, 3, 146);
+    color: greenyellow;
 }
