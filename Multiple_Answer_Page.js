@@ -14,3 +14,6 @@ function changeMessage4() {
     document.getElementById("q4").innerHTML = "You nailed it!!!";
     document.getElementById("q4").style.color = "rgb(166, 233, 227)";
 }
+function resetPage(){
+    location.reload();
+}

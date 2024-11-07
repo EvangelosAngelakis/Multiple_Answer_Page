@@ -2,10 +2,16 @@ body {
     text-align: center;
     background-color: rgb(166, 233, 227);
     border-style:groove;
+    background-image: url('https://img.huffingtonpost.com/asset/60082f4624000070000b804c.jpeg?cache=MlaLSQC08p&ops=1778_1000');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .q0 {
     color: cyan;
     border-style: dotted;
+    font-size: xx-large;
+    font-weight: bold;
 }
 .q1 {
     color: greenyellow;
@@ -18,4 +24,12 @@ body {
 }
 .q4 {
     color: greenyellow;
+}
+#b1, #b2, #b3, #b4 {
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+#d5 {
+    background-color: antiquewhite;
+    border-radius: 5px;
 }
